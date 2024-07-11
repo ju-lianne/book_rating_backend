@@ -1,0 +1,11 @@
+{
+    "fr": {
+      "signupError": "Erreur lors de la création d'un nouvel utilisateur.",
+      "loginError": "Erreur lors de la connexion."
+    },
+    "en": {
+      "signupError": "Error creating a new user.",
+      "loginError": "Erreur during login."
+    }
+  }
+  
